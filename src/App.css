@@ -1,0 +1,40 @@
+body{
+	background: #b1b1b1;
+}
+.container3{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  overflow: hidden;
+}
+
+.container2{
+	margin-left:  80px;
+
+}
+
+.list {
+	list-style-type: none;
+	overflow: hidden;
+	margin-left: 50px;
+
+}
+.list li{
+	display: inline-block;
+	background: #333;
+	margin-top: 5px;
+	margin-right: 10px;
+	padding: 20px 30px;
+	color: white;
+	border-radius: 7px;
+}
+.navbar{
+	background: #20222b;
+	padding-bottom: 30px;
+	color: #ffffff;
+
+}
+.navbar-title{
+	font-size: 2em;
+	text-align : center;
+}
+

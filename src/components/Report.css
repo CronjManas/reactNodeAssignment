@@ -1,0 +1,13 @@
+.report{
+    display: grid;
+   
+    padding: 10px;
+    margin: 10px;
+
+    border-radius: 10px;
+    background: #ccc;
+}
+.report-body .image > img{
+    width: 100px;
+    height: 100px;
+}
